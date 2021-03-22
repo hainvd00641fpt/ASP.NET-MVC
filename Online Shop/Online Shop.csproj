@@ -129,6 +129,7 @@
     <Content Include="Areas\Admin\Views\web.config" />
     <Content Include="Areas\Admin\Views\Home\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Admin\Views\Shared\_LeftMenu.cshtml" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
     <Content Include="scripts\jquery-1.10.2.min.js" />
@@ -168,6 +169,10 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Assets\admin\css\" />
+    <Folder Include="Assets\admin\font-awesome\" />
+    <Folder Include="Assets\admin\fonts\" />
+    <Folder Include="Assets\admin\js\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
