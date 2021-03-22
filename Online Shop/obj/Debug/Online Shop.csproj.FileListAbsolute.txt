@@ -1,0 +1,46 @@
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\ApplicationInsights.config
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\csc.exe
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\vbc.exe
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\VBCSCompiler.exe
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Online Shop.dll.config
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Online Shop.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Online Shop.pdb
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.Web.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.ApplicationInsights.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Helpers.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Mvc.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Razor.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Webpages.Deployment.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Webpages.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Webpages.Razor.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.Web.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.ApplicationInsights.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Razor.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Webpages.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Webpages.Deployment.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Webpages.Razor.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Helpers.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\bin\System.Web.Mvc.xml
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\obj\Debug\Online Shop.csprojResolveAssemblyReference.cache
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\obj\Debug\Online Shop.dll
+c:\users\hai hai\documents\visual studio 2015\Projects\Online Shop\Online Shop\obj\Debug\Online Shop.pdb
